@@ -1,0 +1,50 @@
+[
+    {
+        "FirstName": "",
+        "LastName": "",
+        "Age": "",
+        "Email": "",
+        "Password": "",
+        "Designation": null,
+        "languaage1": null,
+        "languaage2": null,
+        "languaage3": null,
+        "file": null
+    },
+    {
+        "FirstName": "sezan",
+        "LastName": "rahman",
+        "Age": "22",
+        "Email": "example@gmail.com",
+        "Password": "",
+        "Designation": "ProjectManager",
+        "languaage1": "JAVA",
+        "languaage2": "PHP",
+        "languaage3": "C++",
+        "file": null
+    },
+    {
+        "FirstName": "tamim",
+        "LastName": "Hossian",
+        "Age": "22",
+        "Email": "example@gmail.com",
+        "Password": "ghuuyvyh",
+        "Designation": "SeniorProgrammer",
+        "languaage1": null,
+        "languaage2": "PHP",
+        "languaage3": "C++",
+        "file": null
+    },
+    {
+        "FirstName": "nazmul",
+        "LastName": "islam",
+        "Age": "22",
+        "Email": "example@gmail.com",
+        "Password": "fgsshgshn",
+        "Designation": "SeniorProgrammer",
+        "languaage1": null,
+        "languaage2": "PHP",
+        "languaage3": null,
+        "file": null
+    }
+]
