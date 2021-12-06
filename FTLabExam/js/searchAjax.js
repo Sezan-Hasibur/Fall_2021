@@ -1,8 +1,8 @@
 function MyAjaxFunc() {
 
-    var name=  document.getElementById("name").value;
-    var interest=  document.getElementById("interest").value;
-    var designation=  document.getElementById("designation").value;
+    var name=document.getElementById("name").value;
+    var interest=document.getElementById("interest").value;
+    var designation=document.getElementById("designation").value;
 
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
