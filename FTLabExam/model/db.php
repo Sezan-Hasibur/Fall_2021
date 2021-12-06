@@ -11,7 +11,7 @@ function OpenCon()
  return $conn;
  }
 
-function SearchName($conn,$table,$name) // Search using table name
+function SearchUsingName($conn,$table,$name) // Search using table name
  {
 $result = $conn->query("SELECT * FROM $table WHERE Name='$name'");
  return $result;
@@ -23,13 +23,13 @@ $result = $conn->query("SELECT * FROM  $table");
  return $result;
  }
 
- function SearchInterest($conn,$table,$interest) // Search using table interset
+ function SearchUsingInterest($conn,$table,$interest) // Search using table interset
  {
 $result = $conn->query("SELECT * FROM $table WHERE Interest='$interest'");
  return $result;
 }
 
- function SearchDesignation($conn,$table,$udesignation) // Search using table designation
+ function SearchUsingDesignation($conn,$table,$udesignation) // Search using table designation
  {
 $result = $conn->query("SELECT * FROM $table WHERE Designation='$designation'");
  return $result;
